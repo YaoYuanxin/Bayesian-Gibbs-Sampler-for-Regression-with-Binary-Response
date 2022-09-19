@@ -1,4 +1,4 @@
-# Bayesian-Regression-Gibbs-Sampers
+# Bayesian-Regression-Gibbs-Samplers
 Gibbs Samplers for Linear Regression and Logistic/Probit Regression.
 
 This my implementation of estimating regression coefficients in a Logistic/Probit Regression problem. 
